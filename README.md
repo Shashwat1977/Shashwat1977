@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Transformers.**
 
-- 🤝 I’m looking for help with **nothing atm.**
+- 🤝 I’m looking for help with **nothing at the moment.**
 
 - 💬 Ask me about **Anything.**
 
