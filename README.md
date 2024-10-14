@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
-<h3 align="center">A passionate ML developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat1977&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat1977" /> </p>
 
-- 🔭 I’m currently working on **Convolutional models.**
+- 🔭 I’m currently working at Harness as a Software developer
 
-- 🌱 I’m currently learning **Stable diffusion.**
+- 🌱 I work as a Fullstack developer in Java , Golang and React.
 
-- 👯 I’m looking to collaborate on **Transformers.**
+- 👯 I’m looking to collaborate on cool projects in Golang, Java or React.
 
 - 🤝 I’m looking for help with **nothing at the moment.**
 
