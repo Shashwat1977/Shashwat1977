@@ -7,13 +7,13 @@
 
 - 🌱 I work as a Fullstack developer in Java , Golang and React.
 
-- 👯 I’m looking to collaborate on cool projects in Golang, Java or React.
-
 - 🤝 I’m looking for help with **nothing at the moment.**
 
 - 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **shashwatsachan@gmail.com**
+
+- Work Email : **shashwat.sachan@harness.io**
 
 - ⚡ Fun fact **I am awesome.**
 
