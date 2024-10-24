@@ -7,7 +7,7 @@
 
 - 🌱 I work as a Fullstack developer in Java , Golang and React.
 
-- 🤝 I’m looking for help with **new opportunities for work.**
+- 🤝 I’m looking for help with **new opportunities for SDE work.**
 
 - 💬 Ask me about **Anything.**
 
