@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **new opportunities for SDE work.**
 
-- 💬 Ask me about **Anything related to tech.**
+- 💬 Ask me about **anything related to tech.**
 
 - 📫 How to reach me **shashwatsachan@gmail.com**
 
