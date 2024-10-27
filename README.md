@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat1977&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat1977" /> </p>
 
-- 🔭 I’m currently working at Harness as a Software developer
+- 🔭 I’m currently working at Harness as a Software Developer
 
 - 🌱 I work as a Fullstack developer in Java , Golang and React.
 
