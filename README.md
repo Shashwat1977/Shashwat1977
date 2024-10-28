@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Harness as a Software Developer
 
-- 🌱 I work as a Fullstack Developer in Java , Golang and React.
+- 🌱 I work as a Fullstack Developer specialising in Java , Golang and React.
 
 - 🤝 I’m looking for help with **new opportunities for SDE work.**
 
