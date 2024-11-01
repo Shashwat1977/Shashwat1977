@@ -15,7 +15,7 @@
 
 - Work Email : **shashwat.sachan@harness.io**
 
-- ⚡ Fun fact **I am super awesome.**
+- ⚡ Fun fact **I am awesome.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
